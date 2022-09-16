@@ -1,4 +1,4 @@
-# NLW eSports
+<h1 align="center">NLW eSports</h1>
 
 ![preview](./.github/preview.png)
 
