@@ -62,8 +62,7 @@ header img {
 }
 
 main {
-  max-width: 58rem;
-  width: 90%;
+  width: min(58rem, 90%);
   margin: 3.2rem auto 4.4rem;
   display: flex;
   flex-direction: column;
