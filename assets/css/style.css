@@ -19,7 +19,7 @@ body {
   font-size: 1.6rem;
   min-height: 100%;
   background-color: var(--background);
-  background-image: url("/assets/images/Fundo.jpg");
+  background-image: url("../images/Fundo.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: 100% auto;
