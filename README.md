@@ -13,4 +13,4 @@ Projeto construído no evento Next Level Week da Rocketseat. Consiste em uma pá
 
 ## 🔗 Preview
 
-[Clique aqui](https://edusmpaio.github.io/nlw-esports/) para acessar o projeto.
+<a href="https://edusmpaio.github.io/nlw-esports/" target="_blank">Clique aqui</a> para acessar o projeto.
